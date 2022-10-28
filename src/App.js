@@ -12,7 +12,7 @@ export default function App() {
   };
 
   const handleClick = () => {
-    setUpdated((items) => [...items, item]);
+    setUpdated([...updated, item]);
     console.log(updated);
   };
 
