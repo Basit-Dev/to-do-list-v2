@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+.list {
+  list-style: none;
+  font-size: 20px;
+  margin: 10px;
+}
+
+/* .deleteBtn, */
+.addBtn {
+  width: 77px;
+  margin: 20px;
+}
+
+input {
+  padding: 5px;
+  margin: 30px;
+}
+
+input[type="text"] {
+  font-size: 20px;
+}
+.list {
+  margin: 10px 70px;
+  padding: 10px;
+  border: solid 1px rgb(183, 183, 183);
+  border-radius: 8px;
+}
